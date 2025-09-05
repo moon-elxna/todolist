@@ -1,0 +1,5 @@
+ul li {
+    list-style: none;
+    user-select: none;
+    cursor: pointer;
+}
